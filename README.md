@@ -9,9 +9,6 @@
 ### What I'm Working On
 
 - **PlanIT** – My final year project: a web app to help plan and manage events.  
-- **Data Mining Project** – Using machine learning to predict credit defaults and explore distance-based algorithms.  
-- **RSA Encryption Tool** – A Java-based prototype to demonstrate how RSA works, built for my Security & Encryption module.
-
 ---
 
 ### What I'm Learning
