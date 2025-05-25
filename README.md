@@ -2,7 +2,6 @@
 
 🎓 Final Year Computer Science Student  
 💻 Interested in full-stack development, data analytics, and cybersecurity  
-📍 Based in the UK  
 
 ---
 
