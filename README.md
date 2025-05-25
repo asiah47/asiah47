@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-## Hi there 👋 I'm Asia Hussein
+## Hi there 👋 I'm Asia 
 
 🎓 Final Year Computer Science Student  
 💻 Interested in full-stack development, data analytics, and cybersecurity  
@@ -56,4 +53,4 @@
 ---
 
 Thanks for checking out my profile — feel free to explore my work or get in to
--->
+
